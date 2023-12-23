@@ -1,0 +1,10 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "SendMail",
+        "description": "Documentation from SendMail APi",
+        "version": "1.0.0"
+    },
+    "basePath": "/",
+    "paths": {}
+}
